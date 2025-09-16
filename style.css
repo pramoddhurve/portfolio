@@ -1,0 +1,22 @@
+#home {
+    text-align: center;
+    background-image: url(https://plus.unsplash.com/premium_photo-1701590725824-3d0482721544?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d2Vic2l0ZSUyMGJhbm5lcnxlbnwwfHwwfHx8MA%3D%3D);
+    padding: 200px;
+}
+
+#about {
+    text-align: center;
+    padding: 200px;
+    background-color: antiquewhite;
+}
+
+#gallery {
+    text-align: center;
+    padding: 200px;
+}
+
+#contact {
+    text-align: center;
+    padding: 200px;
+    background-color: antiquewhite;
+}
